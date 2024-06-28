@@ -5,5 +5,5 @@ public class Hello {
     Integer age = null;
     String hello = null;
     String hello3 = "main";
-
+    String hello2 = "hot-fox";
 }
